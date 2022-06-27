@@ -11,7 +11,7 @@ favouriteFruit("tomato")
 favouriteMode("light")
 
 // sharp, soft, round
-favouriteEdgeStyle("round")
+favouriteEdgeStyle("sharp")
 
 
 
